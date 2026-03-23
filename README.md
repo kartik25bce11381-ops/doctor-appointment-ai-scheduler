@@ -1,6 +1,6 @@
 # Smart Doctor Appointment AI Scheduler
 
-AI-based appointment system using Forward Chaining from CSA2001 Module 2.
+AI-based appointment system using Forward Chaining
 
 ## How to Run
 1. Clone the repo:
